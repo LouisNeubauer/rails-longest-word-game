@@ -14,7 +14,7 @@
 
 ## What this is
 
-[Le Wagon](https://www.lewagon.com/) is a nine-week, full-time coding bootcamp — roughly 400 hours of Ruby, object-oriented design, SQL, front-end and Ruby on Rails, nine in the morning until seven at night, homework on top. ([programme](https://www.lewagon.com/web-development-course))
+[Le Wagon](https://www.lewagon.com/) is a nine-week, full-time coding bootcamp — Ruby, object-oriented design, SQL, front-end and Ruby on Rails, nine in the morning until seven at night, homework on top. ([programme](https://www.lewagon.com/web-development-course))
 
 This repository is one step of that programme, kept exactly as it was written in 2021 — **before AI assistants, autocomplete or anything that writes code for you.** Every line here was typed by hand, every error read and understood. That is the point of keeping it.
 
